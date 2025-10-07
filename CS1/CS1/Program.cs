@@ -23,8 +23,7 @@
 
         public double wartoscDziesietna
         {
-            get
-            { return (double)licznik / mianownik; }
+            get { return (double)licznik / mianownik; }
         }
 
         public Ulamek(int licznik = 0, int mianownik = 1)
@@ -70,12 +69,12 @@
             int m = u1.mianownik * u2.licznik;
             return new Ulamek(l, m);
         }
-
     }
     internal class Program
     {
         static void Main(string[] args)
         {
+
             Ulamek u1 = new Ulamek(2,4);
             Console.WriteLine(u1);
             Console.WriteLine(u1.wartoscDziesietna);
