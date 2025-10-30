@@ -1,0 +1,15 @@
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.AssemblyInfoInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.AssemblyInfo.cs
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.csproj.CoreCompileInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.sourcelink.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\bin\Debug\net8.0\CSP4.exe
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\bin\Debug\net8.0\CSP4.deps.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\bin\Debug\net8.0\CSP4.runtimeconfig.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\bin\Debug\net8.0\CSP4.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\bin\Debug\net8.0\CSP4.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\refint\CSP4.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\CSP4.genruntimeconfig.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP4\CSP4\obj\Debug\net8.0\ref\CSP4.dll
