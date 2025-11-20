@@ -1,0 +1,15 @@
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\bin\Debug\net8.0\CSP6.exe
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\bin\Debug\net8.0\CSP6.deps.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\bin\Debug\net8.0\CSP6.runtimeconfig.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\bin\Debug\net8.0\CSP6.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\bin\Debug\net8.0\CSP6.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.AssemblyInfoInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.AssemblyInfo.cs
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.csproj.CoreCompileInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.sourcelink.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\refint\CSP6.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\CSP6.genruntimeconfig.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP6 macierze\CSP6\obj\Debug\net8.0\ref\CSP6.dll
