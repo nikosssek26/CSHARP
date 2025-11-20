@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP4\\",
+  "WorkspaceRootPath": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP4 pralka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F7C1708-8FB4-4775-858C-E69F14140713}|CSP4\\CSP4.csproj|c:\\users\\3m\\desktop\\c#\\csharp\\csp4\\csp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F7C1708-8FB4-4775-858C-E69F14140713}|CSP4\\CSP4.csproj|c:\\users\\3m\\desktop\\c#\\csharp\\csp4 pralka\\csp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F7C1708-8FB4-4775-858C-E69F14140713}|CSP4\\CSP4.csproj|solutionrelative:csp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP4\\CSP4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP4 pralka\\CSP4\\Program.cs",
               "RelativeDocumentMoniker": "CSP4\\Program.cs",
-              "ToolTip": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP4\\CSP4\\Program.cs",
+              "ToolTip": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP4 pralka\\CSP4\\Program.cs",
               "RelativeToolTip": "CSP4\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwFMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T08:45:37.613Z",
               "EditorCaption": ""

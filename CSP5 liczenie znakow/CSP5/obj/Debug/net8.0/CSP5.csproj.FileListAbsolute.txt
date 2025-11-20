@@ -1,0 +1,15 @@
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\bin\Debug\net8.0\CSP5.exe
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\bin\Debug\net8.0\CSP5.deps.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\bin\Debug\net8.0\CSP5.runtimeconfig.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\bin\Debug\net8.0\CSP5.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\bin\Debug\net8.0\CSP5.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.AssemblyInfoInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.AssemblyInfo.cs
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.csproj.CoreCompileInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.sourcelink.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\refint\CSP5.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\CSP5.genruntimeconfig.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP5\CSP5\obj\Debug\net8.0\ref\CSP5.dll

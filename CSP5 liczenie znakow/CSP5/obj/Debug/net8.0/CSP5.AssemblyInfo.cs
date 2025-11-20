@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSP4")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CSP5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d42dbbf005e0f02be09af6a1c1b0feca73047d0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSP4")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSP4")]
+[assembly: System.Reflection.AssemblyProductAttribute("CSP5")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CSP5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
