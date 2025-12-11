@@ -1,0 +1,15 @@
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\bin\Debug\net8.0\CS7.exe
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\bin\Debug\net8.0\CS7.deps.json
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\bin\Debug\net8.0\CS7.runtimeconfig.json
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\bin\Debug\net8.0\CS7.dll
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\bin\Debug\net8.0\CS7.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.AssemblyInfoInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.AssemblyInfo.cs
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.csproj.CoreCompileInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.sourcelink.json
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.dll
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\refint\CS7.dll
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\CS7.genruntimeconfig.cache
+C:\Users\3M\Desktop\C#\CSHARP\CS7\CS7\obj\Debug\net8.0\ref\CS7.dll
