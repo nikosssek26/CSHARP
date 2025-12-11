@@ -19,7 +19,7 @@
             System.Console.Write("Wszystkie elementy tablicy: \n");
             for (int i = 0; i < rozmiar; i++)
             {
-                System.Console.Write("nr: "+tablicaZ[i] + " \n");
+                System.Console.Write(i +" :"+tablicaZ[i] + " \n");
             }
             System.Console.WriteLine("\n");
         }
@@ -34,19 +34,19 @@
                 }
             }
         }
-        public void WyswietlParzyste()
+        public void WyswietlNieparzyste()
         {
             int count = 0;
-            System.Console.Write("Parzyste elementy tablicy: \n");
+            System.Console.Write("Nieparzyste elementy tablicy: \n");
             for (int i = 0; i < rozmiar; i++)
             {
-                if (tablicaZ[i] % 2 == 0)
+                if (tablicaZ[i] % 2 == 1)
                 {
-                    System.Console.Write("nr: " + tablicaZ[i] + " \n");
+                    System.Console.Write(i + " :" + tablicaZ[i] + " \n");
                     count++;
                 }
             }
-            System.Console.WriteLine("Liczba parzystych elementow: " + count);
+            System.Console.WriteLine("Liczba nieparzystych elementow: " + count);
             System.Console.WriteLine();
         }
         public void SredniaArtymetyczna()
@@ -68,7 +68,7 @@
             Tablica T1 = new Tablica(100);
             T1.WyswietlTablica();
             T1.WyszukajElement(732);
-            T1.WyswietlParzyste();
+            T1.WyswietlNieparzyste();
             T1.SredniaArtymetyczna();
         }
     }

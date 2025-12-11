@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CS7\\CS7\\CS7.csproj": {}
+    "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP7 Operacje Na Tablicach\\CS7\\CS7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CS7\\CS7\\CS7.csproj": {
+    "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP7 Operacje Na Tablicach\\CS7\\CS7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CS7\\CS7\\CS7.csproj",
+        "projectUniqueName": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP7 Operacje Na Tablicach\\CS7\\CS7.csproj",
         "projectName": "CS7",
-        "projectPath": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CS7\\CS7\\CS7.csproj",
+        "projectPath": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP7 Operacje Na Tablicach\\CS7\\CS7.csproj",
         "packagesPath": "C:\\Users\\3M\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CS7\\CS7\\obj\\",
+        "outputPath": "C:\\Users\\3M\\Desktop\\C#\\CSHARP\\CSP7 Operacje Na Tablicach\\CS7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
