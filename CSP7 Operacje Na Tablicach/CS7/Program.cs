@@ -56,20 +56,46 @@
             {
                 suma += tablicaZ[i];
             }
-            double srednia = (double)suma / rozmiar;
+            float srednia = (float)suma / rozmiar;
             System.Console.WriteLine("Srednia arytmetyczna elementow tablicy: " + srednia);
         }
+        public void odwrocTablice()
+        {
+            tablicaZ = tablicaZ.Reverse().ToArray();
+            System.Console.WriteLine("Tablica zostala odwrocona.");
+        }
+        public void ZerujWartosc(int jakaliczbadozera)
+        {
+            int ilerazy = 0;
+            for (int i = 0; i < rozmiar; i++)
+            {
+                if (tablicaZ[i] == jakaliczbadozera)
+                {
+                    tablicaZ[jakaliczbadozera] = 0;
+                    ilerazy++;
+                }
+            }
+            System.Console.WriteLine(jakaliczbadozera+" ta liczba w tablicy zostala wyzerowana.");
+            System.Console.WriteLine("Zerowanie wykonano "+ilerazy+" razy.");
+        }
+
+
     }
 
     internal class Program
     {
         static void Main(string[] args)
         {
-            Tablica T1 = new Tablica(100);
+            Tablica T1 = new Tablica(1000);
             T1.WyswietlTablica();
             T1.WyszukajElement(732);
             T1.WyswietlNieparzyste();
             T1.SredniaArtymetyczna();
+            T1.odwrocTablice();
+            T1.WyswietlTablica();
+            T1.ZerujWartosc(193);
+            T1.ZerujWartosc(1);
+            T1.WyswietlTablica();
         }
     }
 }
