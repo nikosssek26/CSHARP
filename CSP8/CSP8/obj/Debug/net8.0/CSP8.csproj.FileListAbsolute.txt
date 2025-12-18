@@ -1,0 +1,15 @@
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\bin\Debug\net8.0\CSP8.exe
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\bin\Debug\net8.0\CSP8.deps.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\bin\Debug\net8.0\CSP8.runtimeconfig.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\bin\Debug\net8.0\CSP8.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\bin\Debug\net8.0\CSP8.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.AssemblyInfoInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.AssemblyInfo.cs
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.csproj.CoreCompileInputs.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.sourcelink.json
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\refint\CSP8.dll
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.pdb
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\CSP8.genruntimeconfig.cache
+C:\Users\3M\Desktop\C#\CSHARP\CSP8\CSP8\obj\Debug\net8.0\ref\CSP8.dll
