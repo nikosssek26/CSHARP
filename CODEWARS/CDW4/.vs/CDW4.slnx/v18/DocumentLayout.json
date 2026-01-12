@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\zmcni\\Desktop\\GITHUB PROJECTS\\CSHARP\\CODEWARS\\CDW4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA8BE89A-CC09-477F-8E4F-804FF72C1C9E}|CDW4\\CDW4.csproj|c:\\users\\zmcni\\desktop\\github projects\\csharp\\codewars\\cdw4\\cdw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8BE89A-CC09-477F-8E4F-804FF72C1C9E}|CDW4\\CDW4.csproj|solutionrelative:cdw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68984087-46C7-CA5E-0B13-F0ADCF1A710C}|CDW4\\CDW4.csproj|c:\\users\\zmcni\\desktop\\github projects\\csharp\\codewars\\cdw4\\cdw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68984087-46C7-CA5E-0B13-F0ADCF1A710C}|CDW4\\CDW4.csproj|solutionrelative:cdw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "CDW4\\Program.cs",
               "ToolTip": "C:\\Users\\zmcni\\Desktop\\GITHUB PROJECTS\\CSHARP\\CODEWARS\\CDW4\\CDW4\\Program.cs",
               "RelativeToolTip": "CDW4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T10:31:53.9Z",
               "EditorCaption": ""

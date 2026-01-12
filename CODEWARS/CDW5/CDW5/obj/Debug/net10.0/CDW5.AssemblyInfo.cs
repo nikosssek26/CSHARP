@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDW5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eaeb8936d6be13f929ce206ac40642df5e71c7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f26c9ec34c43b5655aaa86d0a64aa9d3c4e3519b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDW5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDW5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
