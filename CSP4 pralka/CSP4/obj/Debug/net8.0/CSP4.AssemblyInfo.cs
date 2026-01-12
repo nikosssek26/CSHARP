@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSP4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d42dbbf005e0f02be09af6a1c1b0feca73047d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eaeb8936d6be13f929ce206ac40642df5e71c7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSP4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSP4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

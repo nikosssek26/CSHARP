@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zmcni\\Desktop\\GITHUB PROJECTS\\CSHARP\\CODEWARS\\CDW4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8BE89A-CC09-477F-8E4F-804FF72C1C9E}|CDW4\\CDW4.csproj|c:\\users\\zmcni\\desktop\\github projects\\csharp\\codewars\\cdw4\\cdw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8BE89A-CC09-477F-8E4F-804FF72C1C9E}|CDW4\\CDW4.csproj|solutionrelative:cdw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zmcni\\Desktop\\GITHUB PROJECTS\\CSHARP\\CODEWARS\\CDW4\\CDW4\\Program.cs",
+              "RelativeDocumentMoniker": "CDW4\\Program.cs",
+              "ToolTip": "C:\\Users\\zmcni\\Desktop\\GITHUB PROJECTS\\CSHARP\\CODEWARS\\CDW4\\CDW4\\Program.cs",
+              "RelativeToolTip": "CDW4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:31:53.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
