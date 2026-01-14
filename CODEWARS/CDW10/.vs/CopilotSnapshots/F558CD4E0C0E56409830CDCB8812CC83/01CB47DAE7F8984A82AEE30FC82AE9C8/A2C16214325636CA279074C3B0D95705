@@ -1,0 +1,30 @@
+﻿using System;
+using System.Linq;
+
+public class WeightSort
+{
+
+    public static string orderWeight(string strng)
+    {
+        if (string.IsNullOrWhiteSpace(strng))
+            return string.Empty;
+
+        var parts = strng.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+        var sorted = parts
+            .OrderBy(p => p.Sum(c => c - '0'))
+            .ThenBy(p => p, StringComparer.Ordinal)
+            .ToArray();
+
+        return string.Join(' ', sorted);
+    }
+}
+public class Program
+{
+    public static void Main()
+    {
+        string input = "56 65 74 100 99 68 86 180 90";
+        string result = WeightSort.orderWeight(input);
+        Console.WriteLine(result);
+    }
+}

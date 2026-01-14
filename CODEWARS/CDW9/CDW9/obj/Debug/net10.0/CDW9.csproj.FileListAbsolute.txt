@@ -1,0 +1,15 @@
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.AssemblyInfoInputs.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.AssemblyInfo.cs
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.csproj.CoreCompileInputs.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.sourcelink.json
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\bin\Debug\net10.0\CDW9.exe
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\bin\Debug\net10.0\CDW9.deps.json
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\bin\Debug\net10.0\CDW9.runtimeconfig.json
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\bin\Debug\net10.0\CDW9.dll
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\bin\Debug\net10.0\CDW9.pdb
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.dll
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\refint\CDW9.dll
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.pdb
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\CDW9.genruntimeconfig.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW9\CDW9\obj\Debug\net10.0\ref\CDW9.dll

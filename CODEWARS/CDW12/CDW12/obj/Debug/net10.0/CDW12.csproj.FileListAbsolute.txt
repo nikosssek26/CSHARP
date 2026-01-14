@@ -1,0 +1,15 @@
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\bin\Debug\net10.0\CDW12.exe
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\bin\Debug\net10.0\CDW12.deps.json
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\bin\Debug\net10.0\CDW12.runtimeconfig.json
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\bin\Debug\net10.0\CDW12.dll
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\bin\Debug\net10.0\CDW12.pdb
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.AssemblyInfoInputs.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.AssemblyInfo.cs
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.csproj.CoreCompileInputs.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.sourcelink.json
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.dll
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\refint\CDW12.dll
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.pdb
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\CDW12.genruntimeconfig.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW12\CDW12\obj\Debug\net10.0\ref\CDW12.dll

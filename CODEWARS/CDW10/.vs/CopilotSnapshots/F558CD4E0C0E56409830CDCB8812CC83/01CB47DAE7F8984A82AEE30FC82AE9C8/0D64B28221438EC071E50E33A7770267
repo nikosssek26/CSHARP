@@ -1,0 +1,28 @@
+﻿using System;
+
+public class WeightSort
+{
+
+    public static string orderWeight(string strng)
+    {
+        foreach(var item in strng.Split(' '))
+        {
+            string weight = item.ToString();
+            for(int i = 0; i < weight.Length; i++)
+            {
+                int c = weight[i];
+                int n = int.Parse(c.ToString());
+            }
+            Console.WriteLine(item);
+        }
+        return strng;
+    }
+}
+public class Program
+{
+    public static void Main()
+    {
+        string input = "56 65 74 100 99 68 86 180 90";
+        string result = WeightSort.orderWeight(input);
+    }
+}
