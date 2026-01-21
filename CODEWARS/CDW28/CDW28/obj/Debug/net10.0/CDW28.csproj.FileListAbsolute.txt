@@ -1,0 +1,5 @@
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW28\CDW28\obj\Debug\net10.0\CDW28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW28\CDW28\obj\Debug\net10.0\CDW28.AssemblyInfoInputs.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW28\CDW28\obj\Debug\net10.0\CDW28.AssemblyInfo.cs
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW28\CDW28\obj\Debug\net10.0\CDW28.csproj.CoreCompileInputs.cache
+C:\Users\zmcni\Desktop\GITHUB PROJECTS\CSHARP\CODEWARS\CDW28\CDW28\obj\Debug\net10.0\CDW28.sourcelink.json
